@@ -1,7 +1,7 @@
 ---
 title: "PEG onboard training"
 description: "To demonstrate the onboarding training process for PEG staff."
-author: "Scarlett Yu"
+author: [Scarlett Yu, Yufan Gong]
 date: "7/9/2024"
 image: images/peg_logo.png
 categories:
@@ -11,4 +11,18 @@ categories:
   - intro
 ---
 
-[Click to see the slides](documents/Yu_Scarlett_PEG onboarding training.pdf)
+Welcome to PEG Study! 
+
+As part of the requirement for Ritz Lab, please read and sign the [data + office security agreement](documents/Confidential Data User Agreement + Office Security Agreement_2020.pdf), and complete the required [CITI training](documents/Instructions for required CITI Trainings at Dr. Ritz Lab.docx) and HIPAA training (there are two in total, one is on the CITI training page and another could be accessed via [this link](https://hshr.mednet.ucla.edu/s/trainings/policiesprocedures/publish/ocr.htm)). Please note the instructions for CITI training may be a little different while you are registering as the website keeps updating, please use your best judgment to fill out the question prompts. If you have already completed the CITI training and HIPAA training, please send Yufan Gong (ivangong@ucla.edu) your certificates. Once you complete the training, he will also send you the invitation to the BOX folder of PEG study. 
+
+In brief, here is the process for onboarding training:
+
+1. Read and sign the [data + office security agreement](documents/Confidential Data User Agreement + Office Security Agreement_2020.pdf).
+
+2. Complete the required [CITI training](documents/Instructions for required CITI Trainings at Dr. Ritz Lab.docx) and [Mednet HIPAA training](https://hshr.mednet.ucla.edu/s/trainings/policiesprocedures/publish/ocr.htm).
+
+3. Send the certificates to [Yufan Gong](ivangong@ucla.edu)
+
+4. Once you complete the training, Yufan will send you the invitation to the BOX folder and Slack channel of PEG study.
+
+Please also review the [PEG onboarding training slides](documents/Yu_Scarlett_PEG onboarding training.pdf) for more information about the study.
