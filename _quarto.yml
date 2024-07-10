@@ -6,7 +6,6 @@ project:
 
 website:
   title: "PEG study training"
-  search: false
   bread-crumbs: true
   back-to-top-navigation: true
   reader-mode: true
