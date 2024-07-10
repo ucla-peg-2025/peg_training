@@ -1,16 +1,34 @@
 project:
   type: website
+  resources:
+    - "pdf/*.pdf"
+    - "images/*"
 
 website:
   title: "PEG study training"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        menu:
+        - text: PEG website
+          url: https://www.pegstudy.com/
+          
+  sidebar:
+    contents: auto
+      
+execute:
+  freeze: auto
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    

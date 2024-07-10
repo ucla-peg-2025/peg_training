@@ -1,0 +1,10 @@
+---
+title: "PEG onboard training"
+description: "To demonstrate the onboarding training process for PEG staff."
+author: "Scarlett Yu"
+date: "7/9/2024"
+categories:
+  - training
+---
+
+[Click to see the slides](documents/Yu_Scarlett_PEG onboarding training.pdf)

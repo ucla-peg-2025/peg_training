@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This website aims to provide a platform for the training process for PEG staff. 
