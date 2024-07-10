@@ -1,0 +1,32 @@
+---
+title: "PEG data entry training"
+description: "To demonstrate the data entry process for PEG staff"
+author: "Yufan Gong"
+date: "7/9/2024"
+categories:
+  - training
+  - data entry
+---
+
+## Introduction
+In PEG study, we are using Microsoft Access to manage our data. All the data are stored in the Network Attached Storage (NAS) server in the PEG office. Since the data are sensitive (i.e., contain PHI information), we can only access to the database through the offline computers and it is important to follow the data security protocol when entering data. This training session will guide you through the data entry process.
+
+## Data Entry Process
+
+### Step 1: Open the database
+
+1. Log in to the offline computer with the shared username and password (which I will share with you in person). 
+
+2. Go to `peg-boss` (the name of our NAS server) and find the database file named "xxx_entry1/2.accdb". Note that there is a password for the database file as well.
+
+### Step 2: Data entry
+
+1. In the main switch board, press `ctrl + F` to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.
+
+2. Make sure to put your initials and date of entry in the corresponding fields in the form so that we can track the data entry process.
+
+3. If you cannot find the participant ID in the database, please close it and open it again to make sure that you are using the most updated version of the database. If you still cannot find the participant ID, please report to the data manager.
+
+### Step 3: Save and exit
+
+1. After you finish entering data for a participant, press `ctrl + S` to save the data or right click the form and select "Save record". Note that sometimes you might encounter a pop-up window saying that you cannot save the record at this time. This is because someone else is editing the same database. In this case, please wait for a few minutes or negotiate with the other person to see if he/she can close the database for a while so that you can save the record.
