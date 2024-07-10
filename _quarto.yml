@@ -1,11 +1,10 @@
 project:
   type: website
-  resources:
-    - "pdf/*.pdf"
-    - "images/*"
+
 
 website:
   title: "PEG study training"
+  twitter-card: true
   bread-crumbs: true
   back-to-top-navigation: true
   reader-mode: true
@@ -22,16 +21,23 @@ website:
         text: About
         href: about.qmd
     right:
-      - icon: github
-        url: https://ivangong24.github.io/
+      # - icon: github
+      #   url: https://ivangong24.github.io/
       - icon: browser-safari
         text: PEG Study website
         url: https://www.pegstudy.com/
+      - icon: envelope
+        text: pegstudy@mednet.ucla.edu
+        url: pegstudy@mednet.ucla.edu
+      - icon: telephone
+        text: +1-866-519-1795  
+      
           
   sidebar:
-    style: "floating"
-    contents: auto
-    
+    style: "docked"
+    border: false
+    contents: posts
+
 
       
 execute:
