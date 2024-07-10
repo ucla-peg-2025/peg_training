@@ -3,6 +3,7 @@ title: "PEG onboard training"
 description: "To demonstrate the onboarding training process for PEG staff."
 author: "Scarlett Yu"
 date: "7/9/2024"
+image: images/peg_logo.png
 categories:
   - onboarding
   - training
