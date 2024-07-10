@@ -6,6 +6,7 @@ project:
 
 website:
   title: "PEG study training"
+  reader-mode: true
   
   navbar:
     left:
@@ -16,6 +17,7 @@ website:
       - icon: github
         url: https://ivangong24.github.io/
       - icon: browser-safari
+        text: PEG Study website
         url: https://www.pegstudy.com/
           
   sidebar:

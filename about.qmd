@@ -1,5 +1,12 @@
 ---
 title: "About"
+image: images/peg_logo.png
+about:
+  template: jolla
+  links:
+    - icon: browser-safari
+      text: PEG Study website
+      url: https://www.pegstudy.com/
 ---
 
-This website aims to provide a platform for the training process for PEG staff. 
+This website aims to provide a platform for the training process for PEG staff. The training materials are designed to help you understand the study protocol, data management, and data security. If you have any questions or suggestions, please feel free to contact the data manager.
