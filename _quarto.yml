@@ -6,13 +6,22 @@ project:
 
 website:
   title: "PEG study training"
+  search: false
+  bread-crumbs: true
+  back-to-top-navigation: true
   reader-mode: true
   
   navbar:
     left:
-      - href: index.qmd
+      - icon: house-fill
         text: Home
-      - about.qmd
+        href: index.qmd
+      - icon: calendar-check-fill
+        text: Timeline
+        href: timeline.qmd
+      - icon: info-circle-fill
+        text: About
+        href: about.qmd
     right:
       - icon: github
         url: https://ivangong24.github.io/
@@ -21,7 +30,10 @@ website:
         url: https://www.pegstudy.com/
           
   sidebar:
+    style: "floating"
     contents: auto
+    
+
       
 execute:
   freeze: auto
