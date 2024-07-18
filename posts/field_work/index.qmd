@@ -1,0 +1,55 @@
+---
+title: "PEG fieldwork training"
+description: "To prepare for PEG fieldwork"
+author: "Emily Castro"
+date: "7/18/2024"
+categories:
+  - training
+  - fieldwork
+---
+
+## Introduction
+
+My name is Emily, I am the fieldwork coordinator for the PEG Study.
+Welcome to the lab, once again!
+
+Linking you some protocols & to important BOX folders for the PEG Study. Feel free to review this on your own time, thank you!
+
+## Protocols for Fieldwork
+- [Fieldwork Training Guide](https://uclahs.box.com/s/hoopiejqt47opj48jha8cyj0h74sclo4) (This is a great introduction to the work we do for PEG & in the field. A lot of other work gets done in the lab, which you'll find trainings for below & in person). 
+- [Guidelines for Interviews](https://uclahs.box.com/s/hytjijxgzb41d15ojpx9odf5gt0a9vqr) (Great to review to understand how to interview and etiquette) 
+- [Virtual Interviews Protocol](https://uclahs.box.com/s/ij3u44doc4thlbae42mdasdjvfynyvk8) (will use later, not priority to review)
+- [Prepping Participant Folders](https://uclahs.box.com/s/7hsuruahsrs03rrfy0kj370nfni11ivs) (will use later, not priority to review)
+
+## Study Instruments
+
+### Consent Forms for different subject groups: 
+  - [PD Cases](https://uclahs.box.com/s/b1bumnrizxylovivwoze6kzyhiw38v20) (extends to Parkinsonism (includes Dementia with Lewy Body) participants)
+  - [HouseHold Controls (HH)](https://uclahs.box.com/s/2gncferhfgjg7nm9ei8a7c0v59eank1v)
+    - Note: There are HH controls for PD, MSA, and RBD participants. There are specific HH control consent forms for each group (e.g. MSA HH control consent, RBD HH Control Consent, PD HH Control Consent), but they're pretty much the same.
+  - [MSA Cases](https://uclahs.box.com/s/auxixsi0mkq1vtr5i8zowoqe7blhny6t)
+  - [RBD](https://uclahs.box.com/s/ymaohalr2245x3i8u9xufxjdv9cugmxy)
+  - [Population Controls](https://uclahs.box.com/s/ehni8dduflwmql4jqkuuw39d65sxdhm3)
+  - [Stem Cell Substudy](https://uclahs.box.com/s/1is3aklqbq2jiex7vvvfhgal4fiuvhxi) - This is a smaller study we are doing in partnership with Cedar Sinai within PEG. We specifically select people who had high exposures to toxic agents, who were dx early with PD, and match controls close to age & ethnicity. 
+  
+### [Participant Bill of Rights](https://uclahs.box.com/s/5haoa2frq77gfhensjieuva6riw43kye)
+
+### [Study Instruments](https://uclahs.box.com/s/g4zq1ueu76hz402i5t3fbb9fqfeuy838)
+  - This is the most up-to-date chart on the items we ask participants to complete in the study. Everything is a priority except the last section. You'll be referring to this chart often for data entry, package preparations, and interviews. 
+  - The IRB approved forms are found here on [BOX](https://uclahs.box.com/s/tgjtp34rd8u5dzxiedftexfpr2zugbum), which you'll also familiarize yourself with through data entry and data checking.
+  
+Take your time to really know the consent forms/study groups, as it will help you understand what the participants are asked to complete, our objectives, and in case participants ever ask questions. It's okay if some things go over your head for now, as they will make more sense in time!
+
+### Post-Trip Data Entry Training: Things to enter for each participant after we attend fieldwork trips to Central Valley
+
+[Video (~1 hr)](https://uclahs.box.com/s/zuvt27jr8204utjgwse3r6gxdg7p7i7u)
+
+### Database Appointment Scheduling Training: Used after trips & also to track participation progress
+
+[Video (~1 hr)](https://uclahs.box.com/s/377hp9mmhrrd7f8jlv3ngqfuzukzf34s)
+
+**Reviewing the documents & trainings remotely can count toward your work hours and can be completed at your own time.**
+
+Once in office, you'll start off with some data entry training & assist where needed. 
+
+Feel free to reach out if you have any questions by email or slack.
