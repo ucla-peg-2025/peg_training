@@ -37,7 +37,7 @@ Here is the dashboard view for it: ![dashboard](images/dashboard.png)
 
 On the left side, you will see the information from PD registry if the participant is from the registry. Otherwise, it will be blank. On the right side, you will need to input the information you collected from recruitment process (e.g., reply card, phone call, etc.). Sometimes, the information from the registry is not accurate or outdated, so you need to verify the information with the participant.
 
-2. Switch to the "Screening" tab and input the information you collected in the screening process. Based on the information, please determine if the participant is eligible for our study and input the corresponding screening status in the "Screening status 1" field. 
+2. Switch to the "Screening" tab and input the information you collected in the screening process. ![screening2](images/screening2.png) Based on the information, please determine if the participant is eligible for our study and input the corresponding screening status in the "Screening status 1" field. 
 
 
 ### Step 2: Assign PEGID
