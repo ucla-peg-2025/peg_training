@@ -3,6 +3,7 @@ title: "PEG fieldwork training"
 description: "To prepare for PEG fieldwork"
 author: "Emily Castro"
 date: "7/18/2024"
+image: images/office.webp
 categories:
   - training
   - fieldwork
