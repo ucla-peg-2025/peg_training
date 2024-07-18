@@ -21,7 +21,7 @@ In brief, here is the process for onboarding training:
 
 2. Complete the required [CITI training](documents/Instructions for required CITI Trainings at Dr. Ritz Lab.docx) and [Mednet HIPAA training](https://hshr.mednet.ucla.edu/s/trainings/policiesprocedures/publish/ocr.htm).
 
-3. Send the certificates to [Yufan Gong](ivangong@ucla.edu)
+3. Send the certificates to Yufan Gong (ivangong@ucla.edu).
 
 4. Once you complete the training, Yufan will send you the invitation to the BOX folder and Slack channel of PEG study.
 
