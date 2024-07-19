@@ -1,0 +1,91 @@
+---
+title: "PEG data/office security training"
+description: "To demonstrate the importance of data and office security, and to provide guidance on how to protect sensitive information."
+author: "Yufan Gong"
+date: "7/18/2024"
+image: images/data_security.webp
+categories:
+  - training
+  - data security
+  - office security
+---
+
+## Introduction
+
+In this training, we will cover the importance of data and office security, and provide guidance on how to protect sensitive information. Data security is crucial for protecting our participant's information and preventing unauthorized access to sensitive data. Office security is also important to ensure that your workplace is safe and secure for employees and visitors.
+
+## Data Security
+
+Data security refers to the protection of digital data from unauthorized access, corruption, or theft. It is essential to protect sensitive information such as name, address, phone number, etc. for our participants. Therefore, we must follow best practices to ensure data security.
+
+### Study data of Ritz Lab
+
+In PEG study, there are different types of computers and storage, most cannot be accessed via the Internet.
+
+  - Ritz Server : (Network attached storage) NAS server connecting most researcher computers via Ethernet (connected to the Internet).
+  - PEG-Boss : PEG study NAS server connecting computers inside the PEG Office (transfer data through switch, not connected to the Internet)
+  - Secure computer: A data enclave that contains personal identifiable data from the state government. (Disconnected from network)
+  - Encrypted hard-drives and flash-drives: containing de-identified data for sharing with researchers/collaborators
+  - UCLAHealth BOX (HIPPA compliant limited access – need Mednet email)
+  
+
+#### Portable devices
+
+Portable devices such as laptops, hard-drives are commonly used to access and store sensitive data. It is essential to secure these devices to prevent unauthorized access to data. Here are some best practices for securing portable devices:
+
+  - Use strong passwords to protect these devices (PGP/Bitlocker/filevault)
+  - Do not save any data or dataset on unencrypted local personal devices 
+  - Regularly backup external hard drives to the Ritz network at UCLA
+  - Return the external hard drive to the project data manager upon completion of the approved analyses (or expiration of Confidentiality agreement)
+  - Do not include HIPAA identifiers in any dataset placed on an external drives, unless allowed by the IRB and permitted in writing by the PIs
+  - Do not leave portable devices unattended in public places
+
+#### UCLA Health BOX
+
+UCLA Health BOX is a HIPAA-compliant cloud storage service that allows users to securely store and share files, while UCLA BOX is the personal Box folder linked to student’s UCLA email address for storage of personal data (not HIPAA compliant). It is essential to use UCLA Health BOX to store and share sensitive information to ensure data security. Here are some best practices for using UCLA Health BOX:
+
+  - Only share files with authorized users
+  - Do not store study data on your personal Box folders (UCLA or non-UCLA) or other cloud-based storage services (e.g., Google Drive, Dropbox)
+  - While storing data containing HIPAA identifier is allowed on UCLAHealth Box, we strongly recommend to reduce the amount of personal identifier information to minimum.
+
+
+### HIPAA personal identifiers
+
+The HIPAA Privacy Rule regulation specifies 18 identifiers, listed below, most of which are demographic. Inclusion of even one of the following identifiers makes a data set identifiable.
+
+  - Name
+  - *All geographic subdivisions smaller than state, including street address, city county, and zip code, and their equivalent geocodes
+  - All elements (except years) of dates related to an individual (including birthdate, admission date, discharge date, date of death, and exact age if over 89)
+  - Telephone numbers
+  - Fax number
+  - Email address
+  - Social Security Number
+  - Medical record number
+  - Health plan beneficiary number
+  - Account number
+  - Certificate or license number
+  - Vehicle identifiers and serial numbers, including license plate numbers
+  - Device identifiers and serial numbers
+  - Web URL
+  - Internet Protocol (IP) Address
+  - Biometric identifiers, including finger or voice print
+  - Photographic image - Full-face photographs and any comparable images.
+  - Any other characteristic that could uniquely identify the individual
+
+* Exceptions of this identifier could be found at https://ohrpp.research.ucla.edu/hipaa/
+
+
+## Office Security
+
+Office security is essential to ensure that your workplace is safe and secure for employees and visitors. Here are some best practices for office security:
+
+  - All requests for keys must be made via Key Request Forms which can be obtained from the office manager.
+  - Researchers, staff, and graduate/undergraduate student research assistants are allowed to carry with them ONLY the one key that gives access to their main work area.
+  - Room keys and cabinet keys need to be safely guarded
+  - Doors must be closed and locked before leaving the office
+  - Log off/lock the computer workstations if you’re done; shut down the computers at the end of the day
+  - Do not leave portable devices unattended in the office
+  - Physical records need to be kept in a secure area
+  - Always destroy files and documents with confidential data that are no longer needed (e.g., handwritten notes regarding sensitive data)
+
+For more detailed information on data and office security, please refer to [these slides](documents/Data_Office Security_ResearchAuthor_07172024_revised.pdf)
