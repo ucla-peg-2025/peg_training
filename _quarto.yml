@@ -33,9 +33,10 @@ website:
       
           
   sidebar:
-    style: "floating"
+    style: "docked"
     border: true
     contents: posts
+        
 
 
       
