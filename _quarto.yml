@@ -8,7 +8,6 @@ website:
   bread-crumbs: true
   back-to-top-navigation: true
   reader-mode: true
-  
   navbar:
     left:
       - icon: house-fill
@@ -34,8 +33,8 @@ website:
       
           
   sidebar:
-    style: "docked"
-    border: false
+    style: "floating"
+    border: true
     contents: posts
 
 
@@ -48,6 +47,8 @@ format:
     theme: 
       light: litera
       dark: slate
+    code-copy: true
+    code-overflow: wrap
     css: styles.css
     toc: true
     
