@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "timeline.html",
+    "href": "timeline.html",
+    "title": "Timeline",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nPEG data entry training\n\n\nYufan Gong\n\n\n5 min\n\n\n\n\n\n\n\nJul 18, 2024\n\n\nPEG data/office security training\n\n\nYufan Gong\n\n\n5 min\n\n\n\n\n\n\n\nJul 18, 2024\n\n\nPEG fieldwork training\n\n\nEmily Castro\n\n\n3 min\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nPEG onboard training\n\n\nScarlett Yu, Yufan Gong\n\n\n2 min\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/field_work/index.html",
+    "href": "posts/field_work/index.html",
+    "title": "PEG fieldwork training",
+    "section": "",
+    "text": "My name is Emily, I am the fieldwork coordinator for the PEG Study. Welcome to the lab, once again!\nLinking you some protocols & to important BOX folders for the PEG Study. Feel free to review this on your own time, thank you!",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG fieldwork training"
+    ]
+  },
+  {
+    "objectID": "posts/field_work/index.html#introduction",
+    "href": "posts/field_work/index.html#introduction",
+    "title": "PEG fieldwork training",
+    "section": "",
+    "text": "My name is Emily, I am the fieldwork coordinator for the PEG Study. Welcome to the lab, once again!\nLinking you some protocols & to important BOX folders for the PEG Study. Feel free to review this on your own time, thank you!",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG fieldwork training"
+    ]
+  },
+  {
+    "objectID": "posts/field_work/index.html#protocols-for-fieldwork",
+    "href": "posts/field_work/index.html#protocols-for-fieldwork",
+    "title": "PEG fieldwork training",
+    "section": "Protocols for Fieldwork",
+    "text": "Protocols for Fieldwork\n\nFieldwork Training Guide (This is a great introduction to the work we do for PEG & in the field. A lot of other work gets done in the lab, which you’ll find trainings for below & in person).\nGuidelines for Interviews (Great to review to understand how to interview and etiquette)\nVirtual Interviews Protocol (will use later, not priority to review)\nPrepping Participant Folders (will use later, not priority to review)",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG fieldwork training"
+    ]
+  },
+  {
+    "objectID": "posts/field_work/index.html#study-instruments",
+    "href": "posts/field_work/index.html#study-instruments",
+    "title": "PEG fieldwork training",
+    "section": "Study Instruments",
+    "text": "Study Instruments\n\nConsent Forms for different subject groups:\n\nPD Cases (extends to Parkinsonism (includes Dementia with Lewy Body) participants)\nHouseHold Controls (HH)\n\nNote: There are HH controls for PD, MSA, and RBD participants. There are specific HH control consent forms for each group (e.g. MSA HH control consent, RBD HH Control Consent, PD HH Control Consent), but they’re pretty much the same.\n\nMSA Cases\nRBD\nPopulation Controls\nStem Cell Substudy - This is a smaller study we are doing in partnership with Cedar Sinai within PEG. We specifically select people who had high exposures to toxic agents, who were dx early with PD, and match controls close to age & ethnicity.\n\n\n\nParticipant Bill of Rights\n\n\nStudy Instruments\n\nThis is the most up-to-date chart on the items we ask participants to complete in the study. Everything is a priority except the last section. You’ll be referring to this chart often for data entry, package preparations, and interviews.\nThe IRB approved forms are found here on BOX, which you’ll also familiarize yourself with through data entry and data checking.\n\nTake your time to really know the consent forms/study groups, as it will help you understand what the participants are asked to complete, our objectives, and in case participants ever ask questions. It’s okay if some things go over your head for now, as they will make more sense in time!\n\n\nPost-Trip Data Entry Training: Things to enter for each participant after we attend fieldwork trips to Central Valley\nVideo (~1 hr)\n\n\nDatabase Appointment Scheduling Training: Used after trips & also to track participation progress\nVideo (~1 hr)\nReviewing the documents & trainings remotely can count toward your work hours and can be completed at your own time.\nOnce in office, you’ll start off with some data entry training & assist where needed.\nFeel free to reach out if you have any questions by email or slack.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG fieldwork training"
+    ]
+  },
+  {
+    "objectID": "posts/data_entry/index.html",
+    "href": "posts/data_entry/index.html",
+    "title": "PEG data entry training",
+    "section": "",
+    "text": "In PEG study, we are using Microsoft Access to manage our data. All the data are stored in the Network Attached Storage (NAS) server in the PEG office. Since the data are sensitive (i.e., contain PHI information), we can only access to the database through the offline computers and it is important to follow the data security protocol when entering data. This training session will guide you through the data entry process.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data entry training"
+    ]
+  },
+  {
+    "objectID": "posts/data_entry/index.html#introduction",
+    "href": "posts/data_entry/index.html#introduction",
+    "title": "PEG data entry training",
+    "section": "",
+    "text": "In PEG study, we are using Microsoft Access to manage our data. All the data are stored in the Network Attached Storage (NAS) server in the PEG office. Since the data are sensitive (i.e., contain PHI information), we can only access to the database through the offline computers and it is important to follow the data security protocol when entering data. This training session will guide you through the data entry process.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data entry training"
+    ]
+  },
+  {
+    "objectID": "posts/data_entry/index.html#part-1-database-structure",
+    "href": "posts/data_entry/index.html#part-1-database-structure",
+    "title": "PEG data entry training",
+    "section": "Part 1: Database structure",
+    "text": "Part 1: Database structure\nIn PEG study, we have separated the databases for Cases (PD patients), Household controls, and Population controls. Each database contains two parts: the contact manager and the entry database.\n\nWhere to find the databases\n\nLog in to the offline computer with the shared username and password (I will share with you in person or you can consult with a RA in the office).\nGo to peg-boss\\PEG Collection and Contact Databases\\PEG Databases ACTIVE\\PEG3 and find the corresponding database file end with .accdb. Note that there is a password for each of the database file as well (I will also share with you in person or you can consult with a RA in the office). If you are interested, here is a tree structure of the database folder.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data entry training"
+    ]
+  },
+  {
+    "objectID": "posts/data_entry/index.html#part-2-contact-manager",
+    "href": "posts/data_entry/index.html#part-2-contact-manager",
+    "title": "PEG data entry training",
+    "section": "Part 2: Contact manager",
+    "text": "Part 2: Contact manager\nContact manager is a database that stores the contact information of our participants. It is used to track the recruitment process, screen participant’s eligibility and follow-up with the participants.\nFor example, if we received a reply card from a potential patient who indicated interest in participating our study, we need to 1) screen the participant to see if he/she/they are eligible for our study; 2) if eligible, add this potential participant to the contact manager database. In this case, we need to work on the Case_recruitment_contact_manager.accdb file.\nHere is the dashboard view for it: \n\nStep 1: Eligibility screening\n\nClick on Screening patients button to open the screening form. And you will see something like this: \n\nOn the left side, you will see the information from PD registry if the participant is from the registry. Otherwise, it will be blank. On the right side, you will need to input the information you collected from recruitment process (e.g., reply card, phone call, etc.). Sometimes, the information from the registry is not accurate or outdated, so you need to verify the information with the participant.\n\nSwitch to the “Screening” tab and input the information you collected in the screening process.  Based on the information, please determine if the participant is eligible for our study and input the corresponding screening status in the “Screening status 1” field.\n\n\n\nStep 2: Assign PEGID\nIf the participant is eligible, you need to assign a PEGID to the participant. The PEGID is a unique identifier for each participant in our study. For every reply card that we mailed to the participant, a MailID is pre-assigned. A PEGID is the combination of MailID + Participant's Initial + last two digits of birth year. You can assign the PEGID by clicking the Add New Patients button, search for the corresponding MailID and put the new PEGID in the field in front of that MailID.\n\n\nStep 3: Add to contact manager\nThe Add to Contact manager button is greyed out by default. If you would like to add this participant in our database if eligible and willing to participate, please make sure to check Are you willing to consider participating in the PEG Study. Once the participant is added to the contact manager, the PEG3 Contact Manager form will pop out and the basic information will be automatically filled in the contact manager form. You can also go back to the dashboard and click the “See Patient Details” button to open the contact manager form. You will see something like this:  and you can input the information you collected from the participant in the corresponding fields.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data entry training"
+    ]
+  },
+  {
+    "objectID": "posts/data_entry/index.html#part-3-entry-databases",
+    "href": "posts/data_entry/index.html#part-3-entry-databases",
+    "title": "PEG data entry training",
+    "section": "Part 3: Entry databases",
+    "text": "Part 3: Entry databases\nThe entry databases are used to store the data that we collected from the participants during the interview. The data are organized in a structured way so that we can easily access and analyze them. In PEG study, we have entry 1 and entry 2 for Cases, Household controls and Population controls, respectively. Each database contains the forms for different sections of the interview.\nFor example, we are going to enter data for a PD patient who has completed the interview. In this case, we need to work on the PEG 3 Entry Database_Case.accdb file.\n\nStep 1: Data entry\n\nThe main switch board looks like this: . Put your cursor in the PEGID field, press ctrl + F to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.\nMake sure to put your initials and date of entry in the corresponding fields in the form so that we can track the data entry process.\nIf you cannot find the participant ID in the database, please close it and open it again to make sure that you are using the most updated version of the database. If you still cannot find the participant ID, please report to the data manager.\n\n\n\nStep 2: Save and exit\nAfter you finish entering data for a participant, press ctrl + S to save the data or right click the form and select “Save record”. Note that sometimes you might encounter a pop-up window saying that you cannot save the record at this time. This is because someone else is editing the same database. In this case, please wait for a few minutes or negotiate with the other person to see if he/she can close the database for a while so that you can save the record.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data entry training"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website aims to provide a platform for the training process for PEG staff. The training materials are designed to help you understand the study protocol, data management, and data security. If you have any questions or suggestions, please feel free to contact the data manager.\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PEG training session",
+    "section": "",
+    "text": "Welcome to PEG Study!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEG data/office security training\n\n\n\n\n\n\ntraining\n\n\ndata security\n\n\noffice security\n\n\n\nTo demonstrate the importance of data and office security, and to provide guidance on how to protect sensitive information.\n\n\n\n\n\nJul 18, 2024\n\n\nYufan Gong\n\n\n\n\n\n\n\n\n\n\n\n\nPEG fieldwork training\n\n\n\n\n\n\ntraining\n\n\nfieldwork\n\n\n\nTo prepare for PEG fieldwork\n\n\n\n\n\nJul 18, 2024\n\n\nEmily Castro\n\n\n\n\n\n\n\n\n\n\n\n\nPEG data entry training\n\n\n\n\n\n\ntraining\n\n\ndata entry\n\n\n\nTo demonstrate the data entry process for PEG staff\n\n\n\n\n\nJul 9, 2024\n\n\nYufan Gong\n\n\n\n\n\n\n\n\n\n\n\n\nPEG onboard training\n\n\n\n\n\n\nonboarding\n\n\ntraining\n\n\ndata security\n\n\nintro\n\n\n\nTo demonstrate the onboarding training process for PEG staff.\n\n\n\n\n\nJul 9, 2024\n\n\nScarlett Yu, Yufan Gong\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/data_security/index.html",
+    "href": "posts/data_security/index.html",
+    "title": "PEG data/office security training",
+    "section": "",
+    "text": "In this training, we will cover the importance of data and office security, and provide guidance on how to protect sensitive information. Data security is crucial for protecting our participant’s information and preventing unauthorized access to sensitive data. Office security is also important to ensure that your workplace is safe and secure for employees and visitors.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data/office security training"
+    ]
+  },
+  {
+    "objectID": "posts/data_security/index.html#introduction",
+    "href": "posts/data_security/index.html#introduction",
+    "title": "PEG data/office security training",
+    "section": "",
+    "text": "In this training, we will cover the importance of data and office security, and provide guidance on how to protect sensitive information. Data security is crucial for protecting our participant’s information and preventing unauthorized access to sensitive data. Office security is also important to ensure that your workplace is safe and secure for employees and visitors.",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data/office security training"
+    ]
+  },
+  {
+    "objectID": "posts/data_security/index.html#data-security",
+    "href": "posts/data_security/index.html#data-security",
+    "title": "PEG data/office security training",
+    "section": "Data Security",
+    "text": "Data Security\nData security refers to the protection of digital data from unauthorized access, corruption, or theft. It is essential to protect sensitive information such as name, address, phone number, etc. for our participants. Therefore, we must follow best practices to ensure data security.\n\nStudy data of Ritz Lab\nIn PEG study, there are different types of computers and storage, most cannot be accessed via the Internet.\n\nRitz Server : (Network attached storage) NAS server connecting most researcher computers via Ethernet (connected to the Internet).\nPEG-Boss : PEG study NAS server connecting computers inside the PEG Office (transfer data through switch, not connected to the Internet)\nSecure computer: A data enclave that contains personal identifiable data from the state government. (Disconnected from network)\nEncrypted hard-drives and flash-drives: containing de-identified data for sharing with researchers/collaborators\nUCLAHealth BOX (HIPPA compliant limited access – need Mednet email)\n\n\nPortable devices\nPortable devices such as laptops, hard-drives are commonly used to access and store sensitive data. It is essential to secure these devices to prevent unauthorized access to data. Here are some best practices for securing portable devices:\n\nUse strong passwords to protect these devices (PGP/Bitlocker/filevault)\nDo not save any data or dataset on unencrypted local personal devices\nRegularly backup external hard drives to the Ritz network at UCLA\nReturn the external hard drive to the project data manager upon completion of the approved analyses (or expiration of Confidentiality agreement)\nDo not include HIPAA identifiers in any dataset placed on an external drives, unless allowed by the IRB and permitted in writing by the PIs\nDo not leave portable devices unattended in public places\n\n\n\nUCLA Health BOX\nUCLA Health BOX is a HIPAA-compliant cloud storage service that allows users to securely store and share files, while UCLA BOX is the personal Box folder linked to student’s UCLA email address for storage of personal data (not HIPAA compliant). It is essential to use UCLA Health BOX to store and share sensitive information to ensure data security. Here are some best practices for using UCLA Health BOX:\n\nOnly share files with authorized users\nDo not store study data on your personal Box folders (UCLA or non-UCLA) or other cloud-based storage services (e.g., Google Drive, Dropbox)\nWhile storing data containing HIPAA identifier is allowed on UCLAHealth Box, we strongly recommend to reduce the amount of personal identifier information to minimum.\n\n\n\n\nHIPAA personal identifiers\nThe HIPAA Privacy Rule regulation specifies 18 identifiers, listed below, most of which are demographic. Inclusion of even one of the following identifiers makes a data set identifiable.\n\nName\n*All geographic subdivisions smaller than state, including street address, city county, and zip code, and their equivalent geocodes\nAll elements (except years) of dates related to an individual (including birthdate, admission date, discharge date, date of death, and exact age if over 89)\nTelephone numbers\nFax number\nEmail address\nSocial Security Number\nMedical record number\nHealth plan beneficiary number\nAccount number\nCertificate or license number\nVehicle identifiers and serial numbers, including license plate numbers\nDevice identifiers and serial numbers\nWeb URL\nInternet Protocol (IP) Address\nBiometric identifiers, including finger or voice print\nPhotographic image - Full-face photographs and any comparable images.\nAny other characteristic that could uniquely identify the individual\nExceptions of this identifier could be found at https://ohrpp.research.ucla.edu/hipaa/",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data/office security training"
+    ]
+  },
+  {
+    "objectID": "posts/data_security/index.html#office-security",
+    "href": "posts/data_security/index.html#office-security",
+    "title": "PEG data/office security training",
+    "section": "Office Security",
+    "text": "Office Security\nOffice security is essential to ensure that your workplace is safe and secure for employees and visitors. Here are some best practices for office security:\n\nAll requests for keys must be made via Key Request Forms which can be obtained from the office manager.\nResearchers, staff, and graduate/undergraduate student research assistants are allowed to carry with them ONLY the one key that gives access to their main work area.\nRoom keys and cabinet keys need to be safely guarded\nDoors must be closed and locked before leaving the office\nLog off/lock the computer workstations if you’re done; shut down the computers at the end of the day\nDo not leave portable devices unattended in the office\nPhysical records need to be kept in a secure area\nAlways destroy files and documents with confidential data that are no longer needed (e.g., handwritten notes regarding sensitive data)\n\nFor more detailed information on data and office security, please refer to these slides",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG data/office security training"
+    ]
+  },
+  {
+    "objectID": "posts/peg_onboard/index.html",
+    "href": "posts/peg_onboard/index.html",
+    "title": "PEG onboard training",
+    "section": "",
+    "text": "Welcome to PEG Study!\nAs part of the requirement for Ritz Lab, please read and sign the data + office security agreement, and complete the required CITI training and HIPAA training (there are two in total, one is on the CITI training page and another could be accessed via this link). Please note the instructions for CITI training may be a little different while you are registering as the website keeps updating, please use your best judgment to fill out the question prompts. If you have already completed the CITI training and HIPAA training, please send Yufan Gong (ivangong@ucla.edu) your certificates. Once you complete the training, he will also send you the invitation to the BOX folder of PEG study.\nIn brief, here is the process for onboarding training:\n\nRead and sign the data + office security agreement.\nComplete the required CITI training and Mednet HIPAA training.\nSend the certificates to Yufan Gong (ivangong@ucla.edu).\nOnce you complete the training, Yufan will send you the invitation to the BOX folder and Slack channel of PEG study.\n\nPlease also review the PEG onboarding training slides for more information about the study.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Posts",
+      "PEG onboard training"
+    ]
+  }
+]

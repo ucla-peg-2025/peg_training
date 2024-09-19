@@ -1,0 +1,15 @@
+/* custom-styles.css */
+
+/* Wider main body */
+.quarto-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Narrower sidebars */
+.sidebar {
+    width: 240px; /* Adjust this value to make sidebars narrower */
+}
+
+
