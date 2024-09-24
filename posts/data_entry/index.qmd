@@ -57,7 +57,7 @@ For example, we are going to enter data for a PD patient who has completed the i
 
 ### Step 1: Data entry
 
-1. The main switch board looks like this: ![entry1](images/entry1.png). Put your cursor in the `PEGID` field, press `ctrl + F` to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.
+1. The main switch board looks like this: ![entry1](images/entry1.png) then put your cursor in the `PEGID` field, press `ctrl + F` to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.
 
 2. Make sure to put your initials and date of entry in the corresponding fields in the form so that we can track the data entry process.
 
