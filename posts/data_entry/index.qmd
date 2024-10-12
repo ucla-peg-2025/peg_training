@@ -4,6 +4,9 @@ description: "To demonstrate the data entry process for PEG staff"
 author: "Yufan Gong"
 date: "7/9/2024"
 image: images/database_ai.webp
+resources:
+  - "documents/peg3_data_entry.html"
+  - "documents/peg3_data_entry_files"
 categories:
   - training
   - data entry
@@ -66,3 +69,7 @@ For example, we are going to enter data for a PD patient who has completed the i
 ### Step 2: Save and exit
 
 After you finish entering data for a participant, press `ctrl + S` to save the data or right click the form and select "Save record". Note that sometimes you might encounter a pop-up window saying that you cannot save the record at this time. This is because someone else is editing the same database. In this case, please wait for a few minutes or negotiate with the other person to see if he/she can close the database for a while so that you can save the record.
+
+## Data entry tracking
+
+We also provide a data entry tracking report to monitor the data entry process. You can visualize the data entry progress through this link: [Data entry tracking](documents/peg3_data_entry.html). The report is updated every week and you can see the data entry status for the priority forms. You can also generate the ID list for the participants who have completed a specific instrument but not entered into the database yet.
