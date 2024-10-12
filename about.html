@@ -72,7 +72,9 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="About – PEG study training">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="images/peg_logo.png">
+<meta name="twitter:image" content="https://ucla-peg-2024.github.io/peg_training/images/peg_logo.png">
+<meta name="twitter:image-height" content="238">
+<meta name="twitter:image-width" content="332">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -450,7 +452,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ucla-peg-2024\.github\.io\/peg_training\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

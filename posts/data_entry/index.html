@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 <meta name="twitter:title" content="PEG data entry training – PEG study training">
 <meta name="twitter:description" content="To demonstrate the data entry process for PEG staff">
-<meta name="twitter:image" content="images/database_ai.webp">
+<meta name="twitter:image" content="https://ucla-peg-2024.github.io/peg_training/posts/data_entry/images/database_ai.webp">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -221,6 +221,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#step-1-data-entry" id="toc-step-1-data-entry" class="nav-link" data-scroll-target="#step-1-data-entry">Step 1: Data entry</a></li>
   <li><a href="#step-2-save-and-exit" id="toc-step-2-save-and-exit" class="nav-link" data-scroll-target="#step-2-save-and-exit">Step 2: Save and exit</a></li>
   </ul></li>
+  <li><a href="#data-entry-tracking" id="toc-data-entry-tracking" class="nav-link" data-scroll-target="#data-entry-tracking">Data entry tracking</a></li>
   </ul>
 </nav>
     </div>
@@ -313,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="step-1-data-entry" class="level3">
 <h3 class="anchored" data-anchor-id="step-1-data-entry">Step 1: Data entry</h3>
 <ol type="1">
-<li><p>The main switch board looks like this: <img src="images/entry1.png" class="img-fluid" alt="entry1">. Put your cursor in the <code>PEGID</code> field, press <code>ctrl + F</code> to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.</p></li>
+<li><p>The main switch board looks like this: <img src="images/entry1.png" class="img-fluid" alt="entry1"> then put your cursor in the <code>PEGID</code> field, press <code>ctrl + F</code> to search for the participant ID that you are going to enter data for. Then, navigate to the corresponding form by clicking the button on the switch board. The format and layout of each form in the database should be consistent with the paper/eletronic version that we use in the interview. If you notice any discrepancy, please report to the data manager.</p></li>
 <li><p>Make sure to put your initials and date of entry in the corresponding fields in the form so that we can track the data entry process.</p></li>
 <li><p>If you cannot find the participant ID in the database, please close it and open it again to make sure that you are using the most updated version of the database. If you still cannot find the participant ID, please report to the data manager.</p></li>
 </ol>
@@ -321,9 +322,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="step-2-save-and-exit" class="level3">
 <h3 class="anchored" data-anchor-id="step-2-save-and-exit">Step 2: Save and exit</h3>
 <p>After you finish entering data for a participant, press <code>ctrl + S</code> to save the data or right click the form and select “Save record”. Note that sometimes you might encounter a pop-up window saying that you cannot save the record at this time. This is because someone else is editing the same database. In this case, please wait for a few minutes or negotiate with the other person to see if he/she can close the database for a while so that you can save the record.</p>
-
-
 </section>
+</section>
+<section id="data-entry-tracking" class="level2">
+<h2 class="anchored" data-anchor-id="data-entry-tracking">Data entry tracking</h2>
+<p>We also provide a data entry tracking report to monitor the data entry process. You can visualize the data entry progress through this link: <a href="documents/peg3_data_entry.html">Data entry tracking</a>. The report is updated every week and you can see the data entry status for the priority forms. You can also generate the ID list for the participants who have completed a specific instrument but not entered into the database yet.</p>
+
+
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
@@ -563,7 +568,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ucla-peg-2024\.github\.io\/peg_training\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
