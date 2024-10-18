@@ -23,7 +23,7 @@ In PEG study, we have separated the databases for `Cases (PD patients)`, `Househ
 
 1. Log in to the offline computer with the shared username and password (I will share with you in person or you can consult with a RA in the office). 
 
-2. Go to `peg-boss\PEG Collection and Contact Databases\PEG Databases ACTIVE\PEG3` and find the corresponding database file end with `.accdb`. Note that there is a password for each of the database file as well (I will also share with you in person or you can consult with a RA in the office). If you are interested, here is a [tree structure](documents/tree.txt) of the database folder.
+2. Go to `peg-boss\PD Projects (PEG-Boss)\PEG Collection and Contact Databases\PEG Databases ACTIVE\PEG3` and find the corresponding database file end with `.accdb`. Note that there is a password for each of the database file as well (I will also share with you in person or you can consult with a RA in the office). If you are interested, here is a [tree structure](documents/tree.txt) of the database folder.
 
 
 ## Part 2: Contact manager
@@ -45,7 +45,7 @@ On the left side, you will see the information from PD registry if the participa
 
 ### Step 2: Assign PEGID
 
-If the participant is eligible, you need to assign a `PEGID` to the participant. The `PEGID` is a unique identifier for each participant in our study. For every reply card that we mailed to the participant, a `MailID` is pre-assigned. A `PEGID` is the combination of `MailID` + `Participant's Initial` + `last two digits of birth year`. You can assign the `PEGID` by clicking the `Add New Patients` button, search for the corresponding `MailID` and put the new `PEGID` in the field in front of that `MailID`.
+If the participant is eligible, you need to assign a `PEGID` to the participant. The `PEGID` is a unique identifier for each participant in our study. For every reply card that we mailed to the participant, a `MailID` is pre-assigned. A `PEGID` is the combination of `MailID` + `Participant's Initials` + `last two digits of birth year`. You can assign the `PEGID` by clicking the `Add New Patients` button, search for the corresponding `MailID` and put the new `PEGID` in the field in front of that `MailID`.
 
 ### Step 3: Add to contact manager
 
