@@ -27,7 +27,7 @@ website:
         url: https://www.pegstudy.com/
       - icon: envelope
         text: pegstudy@mednet.ucla.edu
-        url: pegstudy@mednet.ucla.edu
+        href: mailto:pegstudy@mednet.ucla.edu
       - icon: telephone
         text: +1-866-519-1795  
       
