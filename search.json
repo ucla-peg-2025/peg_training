@@ -115,11 +115,11 @@
     ]
   },
   {
-    "objectID": "posts/data_entry/index.html#data-entry-tracking",
-    "href": "posts/data_entry/index.html#data-entry-tracking",
+    "objectID": "posts/data_entry/index.html#data-entry-and-clarification-tracking",
+    "href": "posts/data_entry/index.html#data-entry-and-clarification-tracking",
     "title": "PEG data entry training",
-    "section": "Data entry tracking",
-    "text": "Data entry tracking\nWe also provide a data entry tracking report to monitor the data entry process. You can visualize the data entry progress through this link: Data entry tracking. The report is updated every week and you can see the data entry status for the priority forms. You can also generate the ID list for the participants who have completed a specific instrument but not entered into the database yet.",
+    "section": "Data entry and clarification tracking",
+    "text": "Data entry and clarification tracking\nWe also provide a data entry tracking report to monitor the data entry process. You can visualize the data entry progress through this link: Data entry tracking. The report is updated every two weeks and you can see the data entry status for the priority forms. You can also generate the ID list for the participants who have completed a specific instrument but not entered into the database yet. For forms need to be clarified before entered into the database, you can find the ID list here: Data clarification tracking.",
     "crumbs": [
       "Home",
       "Posts",
