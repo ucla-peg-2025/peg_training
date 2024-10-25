@@ -7,6 +7,8 @@ image: images/database_ai.webp
 resources:
   - "documents/peg3_data_entry.html"
   - "documents/peg3_data_entry_files"
+  - "documents/peg_form_clarification_tracking.html"
+  - "documents/peg_form_clarification_tracking_files"
 categories:
   - training
   - data entry
