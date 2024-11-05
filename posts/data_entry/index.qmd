@@ -56,7 +56,7 @@ The `Add to Contact manager` button is greyed out by default. If you would like 
 
 ## Part 3: Entry databases
 
-The entry databases are used to store the data that we collected from the participants during the interview. The data are organized in a structured way so that we can easily access and analyze them. In PEG study, we have `entry 1` and `entry 2` for `Cases`, `Household controls` and `Population controls`, respectively. Each database contains the forms for different sections of the interview. 
+The entry databases are used to store the data that we collected from the participants during the interview. The data are organized in a structured way so that we can easily access and analyze them. In PEG study, we have `entry 1` and `entry 2` for `Cases`, `Household controls` and `Population controls`, respectively. Each database contains the forms for different sections of the interview. The reason why we are doing two different entries is to ensure the data quality and reduce the error rate since people make mistakes!
 
 For example, we are going to enter data for a PD patient who has completed the interview. In this case, we need to work on the `PEG 3 Entry Database_Case.accdb` file.
 
