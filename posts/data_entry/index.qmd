@@ -3,6 +3,7 @@ title: "PEG data entry training"
 description: "To demonstrate the data entry process for PEG staff"
 author: "Yufan Gong"
 date: "7/9/2024"
+date-modified: "11/5/2024"
 image: images/database_ai.webp
 resources:
   - "documents/peg3_data_entry.html"
