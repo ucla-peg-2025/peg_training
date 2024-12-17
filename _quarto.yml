@@ -5,9 +5,13 @@ project:
 website:
   title: "PEG study training"
   twitter-card: true
+  page-navigation: true
   bread-crumbs: true
   back-to-top-navigation: true
-  reader-mode: true
+  reader-mode: false
+  page-footer: 
+    center: "© 2024 PEG Training | All rights reserved."
+          
   navbar:
     left:
       - icon: house-fill
@@ -25,31 +29,35 @@ website:
       - icon: browser-safari
         text: PEG Study website
         url: https://www.pegstudy.com/
-      - icon: envelope
-        text: pegstudy@mednet.ucla.edu
-        href: mailto:pegstudy@mednet.ucla.edu
-      - icon: telephone
-        text: +1-866-519-1795  
-      
-          
+      - text: Contact us
+        menu: 
+          - icon: envelope
+            text: pegstudy@mednet.ucla.edu
+            href: mailto:pegstudy@mednet.ucla.edu
+          - icon: telephone
+            text: +1-866-519-1795  
+            href: tel:866-519-1795
+      - icon: github
+        href: https://github.com/ucla-peg-2024/peg_training
+        aria-label: GitHub
+
   sidebar:
     style: "docked"
     border: true
     contents: posts
         
 
-
-      
 execute:
   freeze: auto
 
 format:
   html:
     theme: 
-      light: litera
-      dark: slate
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    highlight-style: github
     code-copy: true
     code-overflow: wrap
-    css: styles.css
+    #css: styles.css
     toc: true
     
