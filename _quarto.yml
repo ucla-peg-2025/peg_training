@@ -4,7 +4,9 @@ project:
 
 website:
   title: "PEG study training"
+  favicon: images/peg_logo_favi.png
   twitter-card: true
+  open-graph: true
   page-navigation: true
   bread-crumbs: true
   back-to-top-navigation: true
