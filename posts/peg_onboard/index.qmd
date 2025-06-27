@@ -26,3 +26,7 @@ In brief, here is the process for onboarding training:
 4. Once you complete the training, Yufan will send you the invitation to the BOX folder and Slack channel of PEG study.
 
 Please also review the [PEG onboarding training slides](documents/Yu_Scarlett_PEG onboarding training.pdf) for more information about the study.
+
+If you would like to apply for a Mednet account (which we usually recommend for new staff since we are working with confidential data and we will share the working repositories through UCLA Health BOX), please fill out the following two documents ([Non-workforce confidentiality statement](documents/_Blank Non-Workforce Confidentiality-Statement.pdf) and [Non-employee access request form](documents/_BLANK form-access-request-non-employee.pdf)), complete the [Mednet HIPAA training](https://hshr.mednet.ucla.edu/s/trainings/policiesprocedures/publish/ocr.htm) and sign on the second page. All signatures must be handwritten or Adobe certified (i.e., with a digital tag on them, DO NOT USE Fill and sign). Here is a sample e-signature: ![sample sign](images/sample_sign.jpg) 
+
+Once you have prepared all the required documents, please send them to [Yuyuan Lin](mailto:yuyuanlin@g.ucla.edu) or [Yufan Gong](mailto:ivangong@ucla.edu), and they will help you to submit the application. 
